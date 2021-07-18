@@ -28,7 +28,8 @@ https://github.com/twitter/twemoji/blob/master/LICENSE
 以下Twemojiのlライセンス表示。<br>
 Copyright 2020 Twitter, Inc and other contributors
 Graphics licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
-
+<br>
+<br>
 このリソースパックのライセンスは同じくCC-BY 4.0としますが、
 大々的に使用する際は一声いただけると創作活動の糧となります。(めっちゃ喜びます)
 
