@@ -9,7 +9,7 @@ twitterやDiscordで使われているemoji[Twemoji](https://twemoji.twitter.com
 <br>
 <br>
 ## ダウンロード
-[ここから](/releases/latest)
+[ここから](https://github.com/alumina6767/emojiToMinecraft/releases/latest)
 <br>
 <br>
 <br>
