@@ -2,11 +2,18 @@
 Resource pack to add unicode emoji in Minecraft.
 twitterやDiscordで使われているemoji[Twemoji](https://twemoji.twitter.com/)をMinecraftでも使えるようにしたリソースパックです。
 1.16以上のJave editionで動作します。
-    
+<br>
+<br>
+![list](assets/minecraft/textures/font/twemoji.png)
+<br>
+<br>
+<br>
 ## 似たリソースパック
 [Andro's Discord Emojis](https://www.curseforge.com/minecraft/texture-packs/andros-discord-emojis)
 実はこっちの方が対応文字が多い
-    
+<br>
+<br>
+<br>
 ## ライセンス
 このリソースパックは[Twemoji](https://github.com/twitter/twemoji)画像の一部を編集して作成しています。
 
