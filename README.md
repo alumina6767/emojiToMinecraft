@@ -8,6 +8,11 @@ twitterやDiscordで使われているemoji[Twemoji](https://twemoji.twitter.com
 <br>
 <br>
 <br>
+## ダウンロード
+[ここから](/releases/latest)
+<br>
+<br>
+<br>
 ## 似たリソースパック
 [Andro's Discord Emojis](https://www.curseforge.com/minecraft/texture-packs/andros-discord-emojis)
 実はこっちの方が対応文字が多い
