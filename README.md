@@ -20,7 +20,7 @@ twitterやDiscordで使われているemoji[Twemoji](https://twemoji.twitter.com
 <br>
 <br>
 ## ライセンス
-このリソースパックは[Twemoji](https://github.com/twitter/twemoji)画像の一部を編集して作成しています。
+このリソースパックは[Twemoji](https://github.com/twitter/twemoji)の画像の一部を編集して作成しています。
 
 Twemojiの画像データはCC-BY 4.0に基づいて作成されています。
 https://github.com/twitter/twemoji/blob/master/LICENSE
