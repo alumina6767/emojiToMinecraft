@@ -17,7 +17,7 @@ twitterやDiscordで使われているemoji、[Twemoji](https://twemoji.twitter.
 ### [Andro's Discord Emojis](https://www.curseforge.com/minecraft/texture-packs/andros-discord-emojis)<br>
 実はこっちの方が対応文字が多い<br>
 <br>
-### https://twitter.com/MoeMoePig/status/1253303729886920704?s=20<br>
+### https://twitter.com/MoeMoePig/status/1253303729886920704<br>
 verによってはバグあり<br>
 <br>
 <br>
