@@ -25,7 +25,6 @@ verによってはバグあり<br>
 このリソースパックは[Twemoji](https://github.com/twitter/twemoji)の画像の一部を編集して作成しています。
 
 Twemojiの画像データはCC-BY 4.0に基づいて作成されています。
-https://github.com/twitter/twemoji/blob/master/LICENSE
 
 以下Twemojiのライセンス表示。<br>
 Copyright 2020 Twitter, Inc and other contributors
